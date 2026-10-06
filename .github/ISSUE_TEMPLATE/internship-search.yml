@@ -1,0 +1,24 @@
+name: 🔎 实习搜索请求
+description: 用大白话提问，Claude 会实时搜索并把结果整理成 MD 文档
+title: "🔎 "
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: 你想问什么？
+      description: 例如「最近有没有可以投递的大厂实习？」「四川的水电企业有没有 AI 相关岗位？」
+    validations:
+      required: true
+  - type: checkboxes
+    id: scope
+    attributes:
+      label: 范围（可多选，不选就是全部）
+      options:
+        - label: 🤖 AI / 科技大厂
+        - label: ⚡ 传统行业央国企
+        - label: 🌍 外企 / 跨国企业
+  - type: textarea
+    id: trigger
+    attributes:
+      label: 触发词（请保留）
+      value: "@claude 请按 CLAUDE.md 和 /find-internships 技能处理这个问题，完成后开 PR 并在这里回复结论。"

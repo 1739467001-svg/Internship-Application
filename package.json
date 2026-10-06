@@ -1,0 +1,19 @@
+{
+  "name": "internship-application",
+  "private": true,
+  "type": "module",
+  "description": "AI × 传统行业：实习搜索与投递问答系统（Markdown 为底层，VitePress 渲染）",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview",
+    "index": "node scripts/build-index.mjs",
+    "check": "node scripts/check.mjs"
+  },
+  "devDependencies": {
+    "gray-matter": "^4.0.3",
+    "mermaid": "^11.12.0",
+    "vitepress": "^1.6.4",
+    "vitepress-plugin-mermaid": "^2.0.17"
+  }
+}

@@ -1,0 +1,49 @@
+name: 每周实习巡检
+
+# 每周一北京时间 09:17 自动复查公司库，有变化就开 PR。未配置密钥时自动跳过。
+on:
+  schedule:
+    - cron: '17 1 * * 1'
+  workflow_dispatch:
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+      issues: write
+      id-token: write
+    env:
+      HAS_KEY: ${{ secrets.ANTHROPIC_API_KEY != '' || secrets.CLAUDE_CODE_OAUTH_TOKEN != '' }}
+    steps:
+      - if: env.HAS_KEY != 'true'
+        run: echo "::notice::未配置 ANTHROPIC_API_KEY 或 CLAUDE_CODE_OAUTH_TOKEN，跳过本次巡检"
+      - if: env.HAS_KEY == 'true'
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+      - if: env.HAS_KEY == 'true'
+        uses: actions/setup-node@v7
+        with:
+          node-version: 22
+          cache: npm
+      - if: env.HAS_KEY == 'true'
+        run: npm ci
+      - if: env.HAS_KEY == 'true'
+        uses: anthropics/claude-code-action@v1
+        env:
+          GH_TOKEN: ${{ github.token }}
+        with:
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          prompt: |
+            仓库：${{ github.repository }}。这是每周例行巡检。
+            请按 .claude/skills/find-internships/SKILL.md 执行一次「全量复查」：
+            复查 companies/ 下所有公司的招聘状态和关键日期，有变化就更新公司页，并新建一份本周的 searches/ 汇总
+            （重点标出未来 14 天内截止的机会）。然后运行 npm run index 和 npm run check，确保通过。
+            如果没有任何实质变化，就不要提交。
+            如果有变化：新建分支 weekly-scan/<今天日期>，提交并推送，再用 gh pr create 开一个 PR，
+            标题为「每周实习巡检：<今天日期>」，正文用三五行总结最值得行动的变化。
+          claude_args: |
+            --allowedTools "WebSearch,WebFetch,Edit,Write,Bash(npm run:*),Bash(git:*),Bash(gh pr create:*)"
