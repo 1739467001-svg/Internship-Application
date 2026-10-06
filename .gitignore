@@ -2,3 +2,5 @@ node_modules/
 .vitepress/cache/
 .vitepress/dist/
 .DS_Store
+# npm run export 生成的「完整版」报告，每次发给用户，不进仓库
+exports/

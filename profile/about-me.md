@@ -2,7 +2,7 @@
 
 [← 返回首页](../README.md) ｜ [我的 Slogan 与 AI 感悟 →](slogan.md)
 
-> 人工智能专业在读，喜欢把 AI 和计算机技术用到传统行业里，用技术给行业赋能。
+> 人工智能专业硕士在读，喜欢把 AI 和计算机技术用到传统行业里，用技术给行业赋能。
 
 ---
 
@@ -10,12 +10,12 @@
 
 | 项目 | 内容 |
 | --- | --- |
-| 专业 | 人工智能（AI） |
+| 专业 | 人工智能（AI），**硕士（MSc）** |
 | 学校 | University of Sussex（英国）。国内校招按**海外留学生**身份投递，注意各公司的毕业时间窗口和**留服认证**要求 |
 | 语言 | 雅思（IELTS）成绩：`待补充`。可以用英语工作和面试 |
 | 个人仓库 | [Myself](https://github.com/1739467001-svg/myself)（当前是私有仓库，投递前可以考虑整理成公开的作品集） |
 | 毕业届别 | `待补充`（2027 届还是 2028 届，决定该投「实习」还是直接投「秋招」，见 [招聘日历](../guides/recruitment-calendar.md)） |
-| 学历层次 | `待补充`（本科 / 硕士）。很多央企对**留学生、非电类专业只招硕士**，见 [国家电网](../companies/soe/state-grid.md) |
+| 学历层次 | **硕士**（2026-10-06 确认）。央企对留学生、非电类专业大多要求硕士，这一条你满足，能投的范围比本科大很多，见 [国家电网](../companies/soe/state-grid.md) |
 | 学位颁发日期 | `待补充`（Sussex 的 award date）。国网等央企要求境外毕业时间在当年 6 月 30 日前，并在规定时间内拿到留服认证 |
 
 ---
@@ -60,11 +60,11 @@
 
 ### 中文（30 秒）
 
-> 您好，我是人工智能专业的学生，在英国 University of Sussex 读书。我最擅长 Java 和 Python，给学校和社会机构做过 AI 应用项目，也习惯用 AI 编程把想法很快做成产品。我对 AI 和传统行业的结合特别感兴趣，比如电力、能源、水利这些领域。我相信未来不是 AI+，就是 +AI。希望能在贵公司的实习里，把 AI 的能力带进真实的业务场景，同时学习大公司的工作流程和管理方式。
+> 您好，我是英国 University of Sussex 人工智能专业的硕士生。我最擅长 Java 和 Python，给学校和社会机构做过 AI 应用项目，也习惯用 AI 编程把想法很快做成产品。我对 AI 和传统行业的结合特别感兴趣，比如电力、能源、水利这些领域。我相信未来不是 AI+，就是 +AI。希望能在贵公司的实习里，把 AI 的能力带进真实的业务场景，同时学习大公司的工作流程和管理方式。
 
 ### English (30 seconds)
 
-> Hi, I'm an Artificial Intelligence student at the University of Sussex. I'm strongest in Java and Python, and I've built AI applications for schools and community organisations. I use AI-assisted coding to turn ideas into working products very quickly. What excites me most is bringing AI into traditional industries such as energy, utilities and manufacturing. I believe every industry will either be "AI-plus" or "plus-AI". In this internship I hope to apply AI to real business problems, and to learn how a large organisation plans, collaborates and delivers.
+> Hi, I'm an MSc student in Artificial Intelligence at the University of Sussex. I'm strongest in Java and Python, and I've built AI applications for schools and community organisations. I use AI-assisted coding to turn ideas into working products very quickly. What excites me most is bringing AI into traditional industries such as energy, utilities and manufacturing. I believe every industry will either be "AI-plus" or "plus-AI". In this internship I hope to apply AI to real business problems, and to learn how a large organisation plans, collaborates and delivers.
 
 ---
 

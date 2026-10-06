@@ -51,6 +51,7 @@ flowchart LR
     E --> G["⚙️ npm run index<br/>npm run check"]
     F --> G
     G --> H["🚀 commit & push<br/>网站自动重新部署"]
+    H --> I["📦 npm run export<br/>完整版 MD 报告发给我"]
 ```
 
 ## 3. 目录结构
@@ -68,7 +69,8 @@ flowchart LR
 │   └── foreign/                 外企 / 跨国企业
 ├── guides/                      招聘日历、投递追踪表、系统说明
 ├── templates/                   公司页、搜索页模板
-├── scripts/                     build-index.mjs（生成索引）、check.mjs（自检）
+├── scripts/                     build-index.mjs（生成索引）、check.mjs（自检）、export-search.mjs（导出完整版报告）
+├── exports/                     导出的完整版报告（不进仓库，每次发给我）
 ├── .vitepress/                  网站配置、主题、看板组件
 ├── .claude/skills/              find-internships 技能
 └── .github/                     CI、网站部署、@claude 问答、每周巡检
@@ -81,6 +83,7 @@ flowchart LR
 1. 打开 [claude.ai/code](https://claude.ai/code)，选中这个仓库，开一个新会话
 2. 用大白话提问，或者输入 `/find-internships`
 3. AI 会搜索、写文档、自检，然后 push
+4. 最后 AI 会把这次搜索的**完整版 MD 报告**直接发给你。报告由 `npm run export` 生成，把搜索汇总和所有相关公司详情合并成一个文件，可以单独阅读、转发或打印
 
 ### 方式 B：GitHub Issue 里 @claude（需要一次性配置，见下）
 
@@ -107,6 +110,7 @@ npm run dev        # 本地预览 http://localhost:5173/Internship-Application/
 npm run index      # 根据 front matter 重新生成索引
 npm run check      # 自检：字段、断链、索引是否最新
 npm run build      # 构建静态网站
+npm run export     # 把最新一次搜索导出成一份完整的 MD 报告（exports/，不进仓库）
 ```
 
 ## 6. 后续可以升级的方向

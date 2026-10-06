@@ -30,7 +30,7 @@ for (const { path, data: d } of loadSearches()) {
 if (!Object.keys(CATEGORIES).length) errors.push('CATEGORIES 为空')
 
 // 2. 相对链接校验
-const SKIP = new Set(['node_modules', '.git', 'templates', '.vitepress'])
+const SKIP = new Set(['node_modules', '.git', 'templates', '.vitepress', 'exports'])
 function* walk(dir) {
   for (const f of readdirSync(dir)) {
     if (SKIP.has(f)) continue

@@ -70,7 +70,7 @@ export default withMermaid({
   base,
   cleanUrls: true,
   lastUpdated: true,
-  srcExclude: ['node_modules/**', 'templates/**', 'public/**', 'CLAUDE.md', '.claude/**', '.github/**'],
+  srcExclude: ['node_modules/**', 'templates/**', 'public/**', 'exports/**', 'CLAUDE.md', '.claude/**', '.github/**'],
   // GitHub 上用 README.md 作为目录首页，网站上把它映射成 index
   rewrites: {
     'README.md': 'index.md',
