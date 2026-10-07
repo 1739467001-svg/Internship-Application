@@ -39,6 +39,8 @@ function sidebar(): DefaultTheme.Sidebar {
         { text: '首页', link: '/' },
         { text: '实习看板', link: '/board' },
         { text: '关于我', link: '/profile/about-me' },
+        { text: '简历', link: '/profile/resume' },
+        { text: '作品集', link: '/profile/portfolio' },
         { text: '我的 Slogan', link: '/profile/slogan' }
       ]
     },
@@ -56,6 +58,7 @@ function sidebar(): DefaultTheme.Sidebar {
       text: '🗓️ 行动',
       items: [
         { text: '招聘日历', link: '/guides/recruitment-calendar' },
+        { text: '已过期待投递', link: '/guides/expired-watchlist' },
         { text: '投递追踪表', link: '/guides/application-tracker' },
         { text: '系统说明', link: '/guides/how-it-works' }
       ]

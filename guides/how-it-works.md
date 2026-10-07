@@ -61,7 +61,7 @@ flowchart LR
 ├── README.md                    首页（GitHub 和网站共用）
 ├── board.md                     交互式实习看板（网站专用）
 ├── CLAUDE.md                    给 AI 的工作约定
-├── profile/                     关于我、我的 Slogan
+├── profile/                     关于我、简历、作品集、我的 Slogan
 ├── searches/                    每次搜索一份汇总（YYYY-MM-DD-主题.md）
 ├── companies/
 │   ├── ai-tech/                 AI / 科技大厂
