@@ -32,6 +32,25 @@ verified: 2026-10-07
 - **如果你是 2027 届**：现在就投 AAP，不要等截止日
 - **如果你是 2028 届**：AAP 不投，盯数据与 AI 团队的实习，用实习换 2028 届校招的提前录用
 
+## 🔗 直达链接（复制到浏览器打开）
+
+> 这些链接在 2026-10-07 复查时被云环境的网络拦截，没能打开原文，请自己点开确认。
+
+| 用途 | 链接 | 说明 |
+| --- | --- | --- |
+| 官方投递入口：埃森哲中国校园招聘 | <https://www.accenture.cn/cn-zh/careers/local/accenture-china-campus-page> | AAP 项目介绍和申请入口 |
+| 官方：校园招聘（accenture.com 镜像） | <https://www.accenture.com/cn-zh/careers/local/accenture-china-campus-page> | 同上 |
+| 官方：职位列表（投递系统） | <https://careersite.tupu360.com/accentureats/position/index?recruitmentType=> | 校招和实习岗位都在这里检索 |
+| 官方：实习与在校生 | <https://www.accenture.com/cn-zh/careers/life-at-accenture/internships-students> | 数据与 AI 等团队实习 |
+| 官方：应届生 | <https://www.accenture.com/cn-zh/careers/life-at-accenture/entry-level> | |
+| 官方：Journey to Accenture（招聘流程） | <https://www.accenture.com/cn-zh/careers/explore-careers/area-of-interest/journey-to-accenture> | |
+| 项目转载：埃森哲 2027 AI-Native Analyst Program | <https://hicv.cn/xiaozhao/accenture-2027-ai-native-analyst-program-14530-7f4ecf> | Hicv |
+| 实习 JD 转载：Technology—AI 战略规划及项目支持（Intern） | <https://www.wondercv.com/jobs/Z4_dDQA.html> | WonderCV |
+| 宣讲安排：埃森哲信息技术（大连）有限公司 2027 届秋招宣讲会 | <https://m.yingjiesheng.com/xjhview.php?ID=5528108> | 应届生求职网 |
+| BOSS 直聘：埃森哲校招 | <https://www.zhipin.com/zhaopin/57ebb5049fd037441nJ_2ty4EQ~~/> | |
+| 爱企查：埃森哲（中国）校园招聘 | <https://aiqicha.baidu.com/details/ugknowledge?id=a7e2977edd41386a9bcee80aa3607358> | |
+| 聚合站：埃森哲往届校招时间（牛企直聘） | <https://campus.niuqizp.com/schedule-hkrwlNtZ5.html>、<https://campus.niuqizp.com/job-vwl55NMzM.html> | 「上一届 2025-09-11 至 11-10」的来源（具体对应页待核实） |
+
 ## 1. 项目概况
 
 | 项目 | 状态 | 对象 | 时长 / 地点 |
@@ -103,4 +122,4 @@ verified: 2026-10-07
 
 | 日期 | 内容 |
 | --- | --- |
-| 2026-10-07 | 首次收录 |
+| 2026-10-07 | 首次收录；补充直达链接和下次关注 |

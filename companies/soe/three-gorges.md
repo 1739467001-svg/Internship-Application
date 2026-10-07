@@ -33,6 +33,21 @@ verified: 2026-10-07
 - **如果算 2027 届，现在该做**：每周查一次三峡官网「人才招聘 - 高校毕业生招聘」，公告一出就投（报名期短），信息技术类优先看长江电力、三峡科技，地点选成都；同时开始准备留服认证材料
 - **如果算 2028 届，现在该做**：今年不投。2027 年秋季再投，这一年做一个径流预报或大坝监测异常检测的小项目
 
+## 🔗 直达链接（复制到浏览器打开）
+
+> 这些链接在 2026-10-07 复查时被云环境的网络拦截，没能打开原文，请自己点开确认。
+
+| 用途 | 链接 | 说明 |
+| --- | --- | --- |
+| 官网 | <https://www.ctg.com.cn> | 「人才招聘 - 高校毕业生招聘」看 2027 届公告 |
+| 往年网申平台 | <https://campus.chinahr.com/pages/sanxia/#/notices?type=campus>；<http://chrcmp.chinahr.com/pages/sanxia> | 2027 届以官网公告为准 |
+| 培训机构说的 2027 网申页 | <https://www.zhipin.com/dz/sxjt/> | BOSS 直聘专属页（待核实） |
+| 2027 届条件与预测 | [2027 中国三峡集团招聘官网，附报名条件（高顿）](https://www.gwy.com/gqzp/409791.html) | 留学生窗口出自这里 |
+| 2027 届公司页 | [中国长江三峡集团 2027 校园招聘（应届生求职网）](https://s.yingjiesheng.com/h_%E4%B8%AD%E5%9B%BD%E9%95%BF%E6%B1%9F%E4%B8%89%E5%B3%A1%E9%9B%86%E5%9B%A2) | 宣讲行程 |
+| 2026 秋季校招（参考） | [南开大学就业网](https://career.nankai.edu.cn/recruitment/content/type/2/id/5869.html)；[天津大学就业网](https://job.tju.edu.cn/recruitment/content/type/2/id/5736.html) | 看往年岗位和流程 |
+| 三峡新能源 2026 秋招（参考） | [三峡集团官网](https://www.ctg.com.cn/sxxnychina/xxgk27/gsgg42/zpgg76/2025101618224078824/index.html)；[三峡新能源官网](https://www.ctgne.com/sxxnychina/1077761/1077764/1129329/2025101618224035369/index.html)；[吉林大学就业网](https://jdjyw.jlu.edu.cn/portal/jyzp/recruit/details?id=6b5c5e9115554badbee67403f7173c59) | 2025-10-16 发布 |
+| 基石计划（往届） | [2025 年三峡集团「基石计划」校园招聘公告](https://www.hf960.com/n177105c23.aspx) | 看基石计划的院校要求 |
+
 ## 1. 项目概况
 
 | 项目 | 状态 | 对象 | 说明 |
@@ -50,7 +65,7 @@ verified: 2026-10-07
 ## 3. 时间线与流程
 
 - 简历筛选 → 综合笔试 → 面谈 → 面试 → 体检 → 公示 → 签约
-- 历届报名平台：[chrcmp.chinahr.com/pages/sanxia](http://chrcmp.chinahr.com/pages/sanxia)（2027 届请以官网公告为准）。官网「人才招聘 - 高校毕业生招聘」往年链到 [campus.chinahr.com/pages/sanxia](https://campus.chinahr.com/pages/sanxia/#/notices?type=campus)；有培训机构说 2027 届改用 BOSS 直聘的专属页面（待核实）
+- 历届报名平台：[chrcmp.chinahr.com/pages/sanxia](http://chrcmp.chinahr.com/pages/sanxia)（2027 届请以官网公告为准）。官网「人才招聘 - 高校毕业生招聘」往年链到 [campus.chinahr.com/pages/sanxia](https://campus.chinahr.com/pages/sanxia/#/notices?type=campus)；有培训机构说 2027 届改用 BOSS 直聘的专属页面 <https://www.zhipin.com/dz/sxjt/>（待核实）
 - 官网：[ctg.com.cn](https://www.ctg.com.cn)
 
 ## 4. AI 赋能切入点（面试可用）
@@ -87,4 +102,4 @@ verified: 2026-10-07
 | 日期 | 内容 |
 | --- | --- |
 | 2026-10-06 | 首次收录 |
-| 2026-10-07 | 全量复查：状态无变化（2027 届公告截至 10-07 仍未发布）；留学生窗口更正为 2026-08 至 2027-07，补充年龄上限、报名平台、长江电力水电大模型，以及硕士视角 |
+| 2026-10-07 | 全量复查：状态无变化（2027 届公告截至 10-07 仍未发布）；留学生窗口更正为 2026-08 至 2027-07，补充年龄上限、报名平台、长江电力水电大模型，以及硕士视角；补充直达链接和下次关注 |

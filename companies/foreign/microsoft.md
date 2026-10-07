@@ -29,16 +29,35 @@ verified: 2026-10-07
 | MCAPS 暑期实习（非研发） | 同上（推断） | 本科或硕士 | 不能，没开 | 2027 年 1–3 月（推断） |
 
 - **硕士身份**：微软这几个项目本硕都收，硕士不是解锁条件
-- **如果你是 2027 届**：10 月下旬起盯 careers.microsoft.com 的全职 Software Engineer（应届）岗位，现在开始刷算法题
+- **如果你是 2027 届**：10 月下旬起盯 [careers.microsoft.com](https://careers.microsoft.com/v2/global/en/locations/gcr.html) 的全职 Software Engineer（应届）岗位，现在开始刷算法题
 - **如果你是 2028 届**：等 2027 年 1 月的暑期实习。注意「实习结束后还要剩至少 1 个学期」：英国一年制硕士的暑假往往是写论文的时间，**先确认你的学制能不能满足这一条**
+
+## 🔗 直达链接（复制到浏览器打开）
+
+> 这些链接在 2026-10-07 复查时被云环境的网络拦截，没能打开原文，请自己点开确认。
+
+| 用途 | 链接 | 说明 |
+| --- | --- | --- |
+| 官方投递入口：大中华区职位 | <https://careers.microsoft.com/v2/global/en/locations/gcr.html> | 2027 届全职 SWE、2027 暑期实习发布后都在这里 |
+| 官方：苏州职位 | <https://careers.microsoft.com/v2/global/en/locations/suzhou.html> | |
+| 官方：上海职位 | <https://careers.microsoft.com/v2/global/en/locations/shanghai.html> | |
+| 官方：微软亚太研发集团招聘（中文） | <https://www.microsoft.com/zh-cn/aprd/recruitment> | |
+| 官方：Microsoft Asia-Pacific R&D Group Recruitment（英文） | <https://www.microsoft.com/en-us/aprd/recruitment> | |
+| 官方：Microsoft Research Asia Opportunities | <https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/opportunities/> | 微软亚洲研究院，偏研究 |
+| 往期 JD 转载：Software Engineer: Internship Opportunities | <https://jobs.anitab.org/companies/microsoft/jobs/65006935-software-engineer-internship-opportunities> | 2026 这期，已结束 |
+| 往期 JD 转载：Software Engineer: Internship Opportunities | <https://jobs.anitab.org/companies/microsoft/jobs/64855934-software-engineer-internship-opportunities> | 2026 这期另一条，已结束 |
+| 往期 JD 转载：Software Engineer Internship Opportunities | <https://jobs.anitab.org/companies/microsoft/jobs/58453836-software-engineer-internship-opportunities> | 更早一期 |
+| 往期 JD 转载：Software Engineer（全职应届，2025-09 至 2026-08 毕业） | <https://jobs.anitab.org/companies/microsoft/jobs/60909210-software-engineer> | MAIA，北京 / 苏州，2027 届全职的参考 |
+| 往期 JD 转载：Software Engineer（全职应届） | <https://jobs.anitab.org/companies/microsoft/jobs/60909213-software-engineer> | 同上另一条 |
+| 往期：MCAPS 2026 暑期实习 | <https://www.wondercv.com/xiaozhao/microsoft-2026-summer-intern-mcaps-8383-ae4260/> | WonderCV，2026-03-20 已截止 |
 
 ## 1. 项目概况
 
 | 项目 | 状态 | 对象 | 时长 / 地点 |
 | --- | --- | --- | --- |
 | 2027 届全职 Software Engineer | 🟡 截至 2026-10-07 未查到发布；上一届（2026 届）2025-10 发布，网申 2025-10-22 至 12-22（聚合站，待核实） | 上一届面向 2025-09 至 2026-08 毕业 | MAIA（Edge、Bing、Ads 等）团队，北京、苏州 |
-| Software Engineer: Internship Opportunities | 🔴 2026 这期 2026-01-12 发布，已结束；🟡 下一期预计 **2027 年 1 月前后** | 2026 这期面向 2026-09 至 2027-08 毕业的学生 | **12 周**（5–9 月），北京、上海、苏州 |
-| MCAPS 暑期实习（非研发） | 🔴 2026-03-20 截止 | 海内外应届生 | Solution Engineering、Cloud Solution Architecture、Account Management；北京、上海、深圳、香港、台北 |
+| Software Engineer: Internship Opportunities | 🔴 2026 这期 2026-01-12 发布，已结束 → **下次关注**：🟡 2027 夏季 Software Engineer 实习，预计 **2027 年 1 月前后**发布（推断） | 2026 这期面向 2026-09 至 2027-08 毕业的学生 | **12 周**（5–9 月），北京、上海、苏州 |
+| MCAPS 暑期实习（非研发） | 🔴 2026-03-20 截止 → **下次关注**：2027 MCAPS 暑期实习，2027 年 1–3 月（推断） | 海内外应届生 | Solution Engineering、Cloud Solution Architecture、Account Management；北京、上海、深圳、香港、台北 |
 | STCA（微软亚洲互联网工程院）实习 | 待核实：本次没找到 2026-10 正在开放的官方证据 | — | 北京、苏州 |
 
 ## 2. 推荐岗位
@@ -53,7 +72,7 @@ verified: 2026-10-07
 
 - 12 周的暑期项目**正好对上英国暑假**，是外企里时间最友好的一个
 - 2027 届：2026 年 10 月下旬起关注全职 SWE（推断）
-- 2028 届：2027 年 1 月开始关注 careers.microsoft.com 的暑期实习，提前准备算法题（LeetCode）
+- 2028 届：2027 年 1 月开始关注 [careers.microsoft.com](https://careers.microsoft.com/v2/global/en/locations/gcr.html) 的暑期实习，提前准备算法题（LeetCode）
 
 ## 4. AI 赋能切入点（面试可用）
 
@@ -84,4 +103,4 @@ verified: 2026-10-07
 | 日期 | 内容 |
 | --- | --- |
 | 2026-10-06 | 首次收录 |
-| 2026-10-07 | 全量复查：状态无变化（仍为即将开放）；补充 2027 届全职 SWE 的预计时间和上一届毕业窗口；补充硕士视角 |
+| 2026-10-07 | 全量复查：状态无变化（仍为即将开放）；补充 2027 届全职 SWE 的预计时间和上一届毕业窗口；补充硕士视角；补充直达链接和下次关注 |

@@ -26,19 +26,41 @@ verified: 2026-10-07
 | --- | --- | --- | --- | --- |
 | 博世中国 2027 届校园招聘（人工智能、软件开发、JMP 未来领军人等） | 官方海外毕业窗口没查到（待核实）。按外企常见口径推断：学位 2026-09 至 2027-08 颁发 → 2027 届；之后 → 2028 届 | 按岗位；JMP 的学历要求待核实 | 2027 届：能，每人最多 3 个岗位 | **立刻**，9–10 月是筛选面试期 |
 | 日常实习（AI and Web Backend Development Intern、AI Strategic (Hybrid Modeling) Intern 等） | 不按届别，在校生即可 | 本科或硕士；Hybrid Modeling 岗**硕士优先** | 能，需到岗，一般连续 4–6 个月 | 随时 |
-| 智行学院实习生专项 / XFuture | 2028 届及以后 | — | 不能，2026 这期已截止 | 2027 年 3–7 月（推断） |
+| 智行学院实习生专项 / XFuture | 2028 届及以后 | — | 不能，2026 这期已截止 → **下次关注**：2027 智行学院实习生专项（2027 年 3–4 月开放，推断）、2027 XFuture Camp（2027 年夏季，待核实） | 2027 年 3–7 月（推断） |
 
 - **硕士身份**：AI Strategic (Hybrid Modeling) Intern 写明硕士优先；校招里人工智能方向（NLP、CV、数据挖掘）对硕士更友好（待核实）
 - **如果你是 2027 届**：马上投校招，首选人工智能方向，第二志愿可以放 JMP 未来领军人（偏管理）。能回国的话，线下宣讲可以现场面试
 - **如果你是 2028 届**：校招不投，先投 AI 类日常实习，2027 年春季盯智行学院
+
+## 🔗 直达链接（复制到浏览器打开）
+
+> 这些链接在 2026-10-07 复查时被云环境的网络拦截，没能打开原文，请自己点开确认。
+
+| 用途 | 链接 | 说明 |
+| --- | --- | --- |
+| 官方投递入口：加入博世 | <https://www.bosch.com.cn/careers/> | 官网 → 博世在中国 → 加入博世 → 职位机会 |
+| 官方：职位库（社会招聘入口） | <https://www.bosch.com.cn/careers/job-offers/professionals-recruitment/> | 实习岗是否也在这里检索，待核实 |
+| 官方：微信公众号 | 「博世中国人才苑」 | 没有网址，手机端投递和宣讲报名都在这里 |
+| 校招启动公告（牛企直聘转载） | <https://campus.niuqizp.com/job-vYU5azz5Z.html> | 2027 届校招时间表和线下宣讲日程的来源 |
+| 宣讲安排：博世 2027 届秋招宣讲会 | <https://m.yingjiesheng.com/xuanjianghui/xjh_5691326> | 应届生求职网 |
+| 宣讲安排：博世（中国）投资有限公司 2027 届秋招宣讲会 | <https://m.yingjiesheng.com/xuanjianghui/xjh_5135563> | 应届生求职网 |
+| 宣讲行程汇总 | <https://www.yingjiesheng.com/industry_whyjc4tvg5.html> | 应届生求职网 博世校招 |
+| 岗位转载：AI and Web Backend Development Intern | <https://cn.prosple.com/graduate-employers/bosch-china/jobs-internships/ai-and-web-backend-development-intern> | 苏州、无锡、上海等 |
+| 岗位转载：AI Strategic (Hybrid Modeling) Intern | <https://prosple.com/graduate-employers/bosch-china/jobs-internships/ai-strategic-hybrid-modeling-intern-ai-zhanehunhejianmoshixisheng> | 硕士优先 |
+| 岗位转载：Strategy-Data Scientist (Computer Vision) Intern | <https://cn.prosple.com/graduate-employers/bosch-china/jobs-internships/strategy-data-scientist-computer-vision-intern> | 上海、北京、无锡、西安、苏州 |
+| 岗位转载：AIGC Innovation Development Intern | <https://cn.prosple.com/graduate-employers/bosch-china/jobs-internships/aigc-innovation-development-intern> | 详情待核实 |
+| 岗位转载：Software Development Strategy Intern | <https://cn.prosple.com/graduate-employers/bosch-china/jobs-internships/software-development-strategy-intern> | 详情待核实 |
+| 往期实习岗（Prosple） | <https://cn.prosple.com/graduate-employers/bosch-china/jobs-internships/past> | 看往年发什么岗位 |
+| 高校就业网：博世人力资源战略实习生计划（浙江大学） | <https://www.career.zju.edu.cn/jyxt/sczp/zpztgl/ckZpgwXq.zf?dwxxid=761C0E154AF424AFE055000000000001&zpxxbh=3A2FE5CF27A902E0E0653A68DD0E9B18> | 偏 HR 轮岗，参考 |
+| 往期：智能驾控 XFuture Camp 2026 | <https://www.wondercv.com/xiaozhao/bosch-xc-cn-2026-xfuture-camp-10191-bb7aef/> | WonderCV，下次 XFuture 参考 |
 
 ## 1. 项目概况
 
 | 项目 | 状态 | 对象 | 时长 / 地点 |
 | --- | --- | --- | --- |
 | **博世中国 2027 届校园招聘** | 🟢 2026-09-03 开放；9–10 月筛选和面试，11 月起发 Offer（网申截止日待核实） | 2027 届，每人可投 3 个岗位 | 方向含人工智能（NLP、CV、数据挖掘）、软件开发、生产制造、商务运营、JMP 未来领军人 |
-| 【智行学院】实习生专项 | 🔴 2026-04-30 截止。预计 2027 年春季再开（推断） | 2027 届及以后 | 连续实习 4 个月以上；AI、工程、制造、商务、JMP 预备役五个方向 |
-| 智能驾控 XFuture Camp | 🔴 2026-07-12 截止 | 海内外本硕博在校生 | 苏州、上海，连续 6 个月以上 |
+| 【智行学院】实习生专项 | 🔴 2026-04-30 截止 → **下次关注**：2027 智行学院实习生专项，2027 年 3–4 月（推断） | 2027 届及以后 | 连续实习 4 个月以上；AI、工程、制造、商务、JMP 预备役五个方向 |
+| 智能驾控 XFuture Camp | 🔴 2026-07-12 截止 → **下次关注**：2027 XFuture Camp，2027 年夏季（待核实） | 海内外本硕博在校生 | 苏州、上海，连续 6 个月以上 |
 
 ## 2. 推荐岗位
 
@@ -92,4 +114,4 @@ verified: 2026-10-07
 | 日期 | 内容 |
 | --- | --- |
 | 2026-10-06 | 首次收录 |
-| 2026-10-07 | 全量复查：状态无变化（校招进行中）；补充北京 10-17、上海 10-24、武汉 10-29 线下宣讲；新增 AI and Web Backend Development Intern；补充硕士视角 |
+| 2026-10-07 | 全量复查：状态无变化（校招进行中）；补充北京 10-17、上海 10-24、武汉 10-29 线下宣讲；新增 AI and Web Backend Development Intern；补充硕士视角；补充直达链接和下次关注 |

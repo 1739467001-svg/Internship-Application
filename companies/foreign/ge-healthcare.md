@@ -32,12 +32,27 @@ verified: 2026-10-07
 - **如果更晚**：EEDP 这期不投。2027 年 3 月投 EID 暑期实习（至少 8 周，正好放在英国暑假），表现好有机会直接拿 EEDP 正式 Offer
 - 窗口卡在 **7 月底**，比常见的 8 月底早，先确认 Sussex 的 award date
 
+## 🔗 直达链接（复制到浏览器打开）
+
+> 这些链接在 2026-10-07 复查时被云环境的网络拦截，没能打开原文，请自己点开确认。本次没找到 GE医疗中国的官方校招网址，可以在微信公众号「GE医疗招聘」里投递。
+
+| 用途 | 链接 | 说明 |
+| --- | --- | --- |
+| 官方职位页：EEDP EID（北京） | <https://gehealthcare.dejobs.org/beijing-chn/eedp-eid/2DE2B9130A8B421981E2C02B21E06F12/job> | GE HealthCare 在 dejobs 上的官方职位页 |
+| 官方：微信公众号 | 「GE医疗招聘」 | 没有网址，在微信里搜 |
+| 校招转载：GE医疗 2027 届校园招聘正式启动（EEDP） | <https://www.wondercv.com/xiaozhao/ge-healthcare-2027-eedp-campus-13858-1af358/> | WonderCV |
+| EID 转载：GE医疗 2027 届暑期实习生项目 EID 正式启动 | <https://campus.niuqizp.com/job-vrm5tML5M.html> | 牛企直聘，下次 EID 参考 |
+| EID 职位镜像：无锡 | <https://vaisala.dejobs.org/wuxi-chn/eedp-eid/9D109FEF09894997BFDD4DB0C48D042A/job/> | dejobs 镜像站 |
+| EID 职位镜像：北京 | <https://thinkbeyondthelabel.dejobs.org/beijing-chn/eedp-eid/395AEBAFE00D47B68539D23F38314E95/job/> | dejobs 镜像站 |
+| 岗位转载：SW engineering EID（北京） | <https://resumegeni.com/jobs/sw-engineering-eid-at-ge-healthcare-beijing-beijing> | ResumeGeni |
+| 聚合站：GE医疗 2027 EEDP 相关 | <https://campus.niuqizp.com/job-vyU5CNzLL.html> | 搜 2027 EEDP 时出现，具体内容待核实 |
+
 ## 1. 项目概况
 
 | 项目 | 状态 | 对象 | 时长 / 地点 |
 | --- | --- | --- | --- |
 | **2027 届 EEDP（爱迪生工程技术发展培训生）** | 🟢 2026-09 启动（截止日待核实） | 2027 年 7 月底前毕业的海内外**硕士及以上**；重点招软件与计算机工程方向 | 2 年研发轮岗 |
-| EID 暑期实习（Early-Identification） | 🔴 2027 届这期 2026-03-09 开放，已结束；🟡 2028 届预计 2027 年 3 月前后 | 当时面向 2027 年 7 月前毕业的理工科硕士（也有转载写 2026-10 至 2027-07 毕业） | 2–6 个月，至少 8 周，每周至少 4 天；北京、天津、无锡 |
+| EID 暑期实习（Early-Identification） | 🔴 2027 届这期 2026-03-09 开放，已结束 → **下次关注**：🟡 2028 届 EID 暑期实习，2027 年 3 月前后（推断） | 当时面向 2027 年 7 月前毕业的理工科硕士（也有转载写 2026-10 至 2027-07 毕业） | 2–6 个月，至少 8 周，每周至少 4 天；北京、天津、无锡 |
 
 ## 2. 推荐岗位
 
@@ -81,4 +96,4 @@ verified: 2026-10-07
 | 日期 | 内容 |
 | --- | --- |
 | 2026-10-06 | 首次收录 |
-| 2026-10-07 | 全量复查：状态无变化（2027 届 EEDP 进行中，截止日仍待核实）；补充 EID 的技术栈要求和转正路径；补充硕士视角 |
+| 2026-10-07 | 全量复查：状态无变化（2027 届 EEDP 进行中，截止日仍待核实）；补充 EID 的技术栈要求和转正路径；补充硕士视角；补充直达链接和下次关注 |

@@ -34,6 +34,31 @@ verified: 2026-10-07
 - **如果学位在 2027-08 之后颁发（2028 届）**：秋招先不投。现在投 Data & AI Center / Physical AI 实习（在读即可），2027 年春季实习和 2027 秋招再冲 SGP
 - 学位颁发日期还没确认，先向 Sussex 问清楚 award date，再决定投哪条线
 
+## 🔗 直达链接（复制到浏览器打开）
+
+> 这些链接在 2026-10-07 复查时被云环境的网络拦截，没能打开原文，请自己点开确认。
+
+| 用途 | 链接 | 说明 |
+| --- | --- | --- |
+| 官方投递入口（实习） | <https://jobs.siemens.com.cn/siemens/position/index?recruitmentType=INTERNSHIPRECRUITMENT> | 西门子中国招聘站，筛选「实习招聘」 |
+| 官方校招专题 | <https://w1.siemens.com.cn/campus-recruiting/> | 西门子中国校园招聘（搜索结果标题还是「2026 西门子校园招聘」，是否已更新为 2027，待核实） |
+| SGP 官方介绍 | <https://www.siemens.com/cn/zh/company/jobs-careers/search-careers-global/siemens-graduate-program.html> | The Siemens Graduate Program |
+| 岗位 JD：Siemens Graduate Program - Product Management 西门子管理培训生 - 产品管理方向 北京 | <https://jobs.siemens.com/en_US/externaljobs/JobDetail/521658> | SGP 2027 |
+| 岗位 JD：Siemens Graduate Program - Commercial Excellence 西门子管理培训生 - 卓越商务 | <https://jobs.siemens.com/en_US/externaljobs/JobDetail/521560> | SGP 2027 |
+| 岗位 JD：SGP 相关岗位（ID 521826） | <https://jobs.siemens.com/cs_CZ/externaljobs/JobDetail/521826> | 搜索摘要提到北京「投资组合专家培训生」2026-09-09 发布，和这个链接是否对应待核实（捷克语界面，可切换语言） |
+| 岗位 JD：Applied Physical AI Intern | <https://jobs.siemens.com/de_DE/externaljobs/JobDetail/514116> | 苏州，2026-07-15 发布（德语界面，可切换语言） |
+| 岗位 JD：数据与人工智能中心中国研发部 AI产品体验设计实习生（工业AI方向） | <https://jobs.siemens.com/cs_CZ/externaljobs/JobDetail/516505> | 北京 / 上海 / 苏州，2026-08-03 发布（捷克语界面） |
+| 岗位 JD：Software Development Engineer Intern | <https://jobs.siemens.com/en_US/externaljobs/JobDetail/506107> | 上海，NX CAD |
+| 岗位转载：数据与人工智能中心中国研发部 NLP实习生(面向在校学生/现场实习/无转正) | [ResumeGeni 转载](https://resumegeni.com/jobs/西门子-数据与人工智能中心中国研发部-nlp实习生面向在校学生现场实习无转正-at-siemens-ag-beijingbeijing-shichina) | 北京，2026-07-01 发布 |
+| 往期 SGP 岗位转载 | <https://jobs.anitab.org/companies/siemens-2/jobs/57742846-siemens-graduate-program-product-management> | Product Management 方向，往期参考 |
+| 西门子医疗校招 | <https://www.siemens-healthineers.cn/careers/campus-recruit> | 西门子医疗校园招聘平台 |
+| 西门子（深圳）磁共振校招 | <https://www.siemens-healthineers.cn/careers/ssmr-campus> | 校园招聘简章 |
+| 聚合站：2027 秋招时间 | <https://hahazhao.com/square/3810> | 「09-14 开放、10 月底前提交」的来源之一（待核实） |
+| 聚合站：2027 校招投递链接 | <https://offernotes.cn/campus/xe6fsfwoujadhe6> | Offer 笔记 |
+| 聚合站：西门子 2026 春季校园招聘 | <https://campus.niuqizp.com/job-vlr5ZNNMa.html> | 牛企直聘，下次春招的参考 |
+| 往期：西门子 2026 届校招（SGP / Sales 100 / 研发类） | <https://www.quanzhi.com/notice/68db70e07f2732863fe5c572> | 全职招聘网转载 |
+| 宣讲行程 | <https://www.yingjiesheng.com/industry_wujncrvf4g.html> | 应届生求职网 西门子校招 |
+
 ## 1. 项目概况
 
 | 项目 | 状态 | 对象 | 时长 / 地点 |
@@ -41,9 +66,9 @@ verified: 2026-10-07
 | **数据与人工智能中心（Data & AI Center）实习** | 🔵 长期有效 | 在校生，不转正 | 北京、苏州，部分岗位可弹性远程 |
 | 工业软件和数字化工业实习 | 🔵 jobs.siemens.com 滚动发布 | 未毕业学生 | 上海、成都、苏州 |
 | 2027 秋季校园招聘 | 🟢 2026-09-14 开放网申，建议 10 月底前提交（截止日待核实） | 2027 届 | SGP 管培、Sales 100、研发类 |
-| SGP 西门子管理培训生（2027） | 🟢 jobs.siemens.com 已发布多个方向（产品管理（北京）、卓越商务等） | 硕士及以上，至少 4 个月海外经历；专业含人工智能、软件工程、自动化等 | 2 年，3–4 段轮岗，至少一段在海外 |
+| SGP 西门子管理培训生（2027） | 🟢 jobs.siemens.com 已发布多个方向（[产品管理（北京）](https://jobs.siemens.com/en_US/externaljobs/JobDetail/521658)、[卓越商务](https://jobs.siemens.com/en_US/externaljobs/JobDetail/521560)等） | 硕士及以上，至少 4 个月海外经历；专业含人工智能、软件工程、自动化等 | 2 年，3–4 段轮岗，至少一段在海外 |
 | 西门子医疗 2027 秋招 | 🟢 2026-09-10 启动 | 2027 届 | 10 月中下旬面试，11 月初出结果 |
-| 春季实习招聘 | 🔴 2026 年这期已于 4 月中截止 | 非毕业年级 | 一般要求 6 个月以上 |
+| 春季实习招聘 | 🔴 2026 年这期已于 4 月中截止 → **下次关注**：2027 春季实习招聘，2027 年 3–4 月（推断） | 非毕业年级 | 一般要求 6 个月以上 |
 
 ## 2. 推荐岗位
 
@@ -55,7 +80,7 @@ verified: 2026-10-07
 | [Software Development Engineer Intern](https://jobs.siemens.com/en_US/externaljobs/JobDetail/506107) | NX CAD 编程和测试 | 上海 | C++ / C 基础，本科或硕士 |
 | Student Intern（NX Mechatronics Concept Designer） | **数字孪生** | **成都** | 西门子工业软件成都研发中心（2026-05 发布，状态待核实） |
 | Student Intern – Cloud Services | 云服务 | 上海 | Digital Industries |
-| [Applied Physical AI Intern](https://jobs.siemens.com/en_US/externaljobs/JobDetail/514116) | **具身智能**：采集遥操作数据、训练和部署 Physical AI 模型（Autonomous Factory 团队） | 苏州 | 本科或硕士在读；Python、PyTorch，了解 Transformer / LLM / VLM；英语沟通好；每周 4–5 天、至少 3 个月（2026-07-15 发布） |
+| [Applied Physical AI Intern](https://jobs.siemens.com/de_DE/externaljobs/JobDetail/514116) | **具身智能**：采集遥操作数据、训练和部署 Physical AI 模型（Autonomous Factory 团队） | 苏州 | 本科或硕士在读；Python、PyTorch，了解 Transformer / LLM / VLM；英语沟通好；每周 4–5 天、至少 3 个月（2026-07-15 发布） |
 | [AI产品体验设计实习生（工业AI方向）](https://jobs.siemens.com/cs_CZ/externaljobs/JobDetail/516505) | AI Agent 交互和生成式设计 | 北京 / 上海 / 苏州 | Data & AI Center；偏设计（Figma），至少 3 个月、每周 3 天到岗（2026-08-03 发布）。不是主攻方向，可作备选 |
 | 数据与人工智能中心中国研发部 NLP 实习生 | NLP | 北京 | 面向在校学生、现场实习、无转正（2026-07-01 发布，转载信息，待核实） |
 | [Siemens Graduate Program – Product Management（北京）](https://jobs.siemens.com/en_US/externaljobs/JobDetail/521658) | SGP 管培生，产品管理 | 北京 | 硕士以上，专业含人工智能；至少 4 个月海外经历 |
@@ -63,7 +88,7 @@ verified: 2026-10-07
 
 ## 3. 时间线与流程
 
-- 实习岗随时可以投，在 jobs.siemens.com.cn 上筛选「实习招聘」
+- 实习岗随时可以投，在 [jobs.siemens.com.cn](https://jobs.siemens.com.cn/siemens/position/index?recruitmentType=INTERNSHIPRECRUITMENT) 上筛选「实习招聘」
 - 2027 秋招网申 2026-09-14 开放，建议 **10 月底前**提交（来自聚合站，具体截止日待核实）。2027 届的同学请**马上去官网确认**
 - 下一期春季实习预计 2027 年 3 到 4 月开放（推断，待核实）
 
@@ -94,7 +119,7 @@ verified: 2026-10-07
 - [Software Development Engineer Intern JD](https://jobs.siemens.com/en_US/externaljobs/JobDetail/506107)
 - [西门子医疗校园招聘](https://www.siemens-healthineers.cn/careers/campus-recruit)
 - [2027 秋招时间（聚合站，待核实）](https://hahazhao.com/square/3810)
-- [Applied Physical AI Intern JD](https://jobs.siemens.com/en_US/externaljobs/JobDetail/514116)
+- [Applied Physical AI Intern JD](https://jobs.siemens.com/de_DE/externaljobs/JobDetail/514116)
 - [AI产品体验设计实习生（工业AI方向）JD](https://jobs.siemens.com/cs_CZ/externaljobs/JobDetail/516505)
 - [SGP – Product Management（北京）JD](https://jobs.siemens.com/en_US/externaljobs/JobDetail/521658)
 - [SGP – Commercial Excellence JD](https://jobs.siemens.com/en_US/externaljobs/JobDetail/521560)
@@ -108,4 +133,4 @@ verified: 2026-10-07
 | 日期 | 内容 |
 | --- | --- |
 | 2026-10-06 | 首次收录 |
-| 2026-10-07 | 全量复查：状态无变化（仍为滚动招聘）；补充 2027 秋招 09-14 开放网申、SGP 2027 已发布岗位和硬门槛、新增 Applied Physical AI 等 3 个实习岗；补充硕士视角 |
+| 2026-10-07 | 全量复查：状态无变化（仍为滚动招聘）；补充 2027 秋招 09-14 开放网申、SGP 2027 已发布岗位和硬门槛、新增 Applied Physical AI 等 3 个实习岗；补充硕士视角；补充直达链接和下次关注 |

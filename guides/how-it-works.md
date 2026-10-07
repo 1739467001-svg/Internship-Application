@@ -37,7 +37,7 @@ flowchart TB
 | 规则层 | `CLAUDE.md` + 项目技能 `.claude/skills/find-internships` | 把「我是谁」「怎么搜」「怎么写」固化下来，每次搜索的质量都稳定 |
 | 数据层 | **Markdown + YAML front matter** | 人能直接读，机器也能解析。看板和索引都从 front matter 自动生成，不会出现「两处不一致」 |
 | 展示层 | **GitHub 原生渲染** + **VitePress 1.x**（GitHub Pages 部署） | GitHub 上点链接就能看。网站提供**中文全文搜索**（汉字二元组分词）、**可筛选的实习看板**、公司信息卡、深色模式 |
-| 质量 | `npm run check`（front matter 校验、断链检查、索引是否最新）+ GitHub Actions CI | AI 写错字段、链接写断时，CI 会立刻报警 |
+| 质量 | `npm run check`（front matter 校验、必备章节、🔴 是否写了下次关注、断链检查、索引是否最新）+ GitHub Actions CI | AI 写错字段、漏写章节、链接写断时，CI 会立刻报警 |
 
 ## 2. 一次提问的完整流程
 
@@ -50,7 +50,7 @@ flowchart LR
     D --> F["📋 本次搜索汇总页<br/>searches/日期-主题.md"]
     E --> G["⚙️ npm run index<br/>npm run check"]
     F --> G
-    G --> H["🚀 commit & push<br/>网站自动重新部署"]
+    G --> H["🚀 commit & push<br/>开 PR 合并到默认分支"]
     H --> I["📦 npm run export<br/>完整版 MD 报告发给我"]
 ```
 
@@ -67,10 +67,10 @@ flowchart LR
 │   ├── ai-tech/                 AI / 科技大厂
 │   ├── soe/                     传统行业央国企
 │   └── foreign/                 外企 / 跨国企业
-├── guides/                      招聘日历、投递追踪表、系统说明
+├── guides/                      招聘日历、已过期待投递清单、投递追踪表、系统说明
 ├── templates/                   公司页、搜索页模板
 ├── scripts/                     build-index.mjs（生成索引）、check.mjs（自检）、export-search.mjs（导出完整版报告）
-├── exports/                     导出的完整版报告（不进仓库，每次发给我）
+├── exports/                     每次回复的 MD 交付文档、导出的完整版报告（不进仓库，每次发给我）
 ├── .vitepress/                  网站配置、主题、看板组件
 ├── .claude/skills/              find-internships 技能
 └── .github/                     CI、网站部署、@claude 问答、每周巡检

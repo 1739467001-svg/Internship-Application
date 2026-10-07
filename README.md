@@ -15,6 +15,7 @@
 | 看最新一次搜到了什么 | [🔎 最新搜索：2026-10-07 全量复查](searches/2026-10-07-full-recheck.md) |
 | 按公司浏览 | [🏢 公司库](companies/README.md)（网站版有 [📊 交互式看板](board.md)） |
 | 知道什么时候该投什么 | [🗓️ 招聘日历](guides/recruitment-calendar.md) |
+| 看错过了哪些、下次什么时候能投 | [⏳ 已过期待投递清单](guides/expired-watchlist.md) |
 | 记录投了哪些、进展到哪 | [📝 投递追踪表](guides/application-tracker.md) |
 | 了解我是谁 | [🙋 关于我](profile/about-me.md) ｜ [💡 我的 Slogan](profile/slogan.md) |
 | 了解这个系统怎么运转 | [⚙️ 系统说明](guides/how-it-works.md) |
