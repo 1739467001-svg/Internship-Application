@@ -7,7 +7,7 @@ program: 2027 校园招聘 · AI未来分析师成长计划（AI-Native Analyst 
 status: open
 directions: [AI 咨询, 数字化转型, 数字工程与制造, 供应链与工程, 数字核心]
 locations: [北京, 上海, 深圳, 广州, 大连, 成都]
-overseas: 面向 2026-01-01 至 2027-08-31 毕业的国内 / 海外院校全日制学生
+overseas: AAP 面向 2026-01-01 至 2027-08-31 毕业的国内 / 海外院校全日制学生，你学位证 2027-03 → 2027 届，在窗口内；实习面向在校生，在读期（至 2027-02）可投
 apply_url: https://www.accenture.cn/cn-zh/careers/local/accenture-china-campus-page
 deadline: 网申截止日待核实（上一届 2025-09-11 至 11-10，建议 10 月内投）
 match: 4
@@ -24,13 +24,13 @@ verified: 2026-10-07
 
 | 项目 / 岗位 | 我算哪一届 | 学历要求 | 现在能不能投 | 什么时候投 |
 | --- | --- | --- | --- | --- |
-| 2027 AI未来分析师成长计划（AAP） | 官方窗口 **2026-01-01 至 2027-08-31 毕业**：学位在 2027-08-31 及以前颁发 → 可投；之后 → 不在窗口，等 2028 届校招 | 国内 / 海外院校全日制学生（本硕要求待核实） | 学位 2027-08-31 前颁发：能 | 现在，建议 10 月内（截止日待核实） |
-| 数据与 AI、SAP、智能运营等团队实习 | 在校生，不按届别 | 待核实 | 不定期发布，到官网看有没有在招 | 随时；表现好可以提前锁定校招 Offer |
+| 数据与 AI、SAP、智能运营等团队实习 | 在校生，不按届别 | 待核实 | 不定期发布，要到官网和投递系统看有没有在招；能不能在 2027-02 前做完一段，时长要求待核实 | 现在就去看，有合适的就投 |
+| Technology—AI 战略规划及项目支持（Intern） | 在校生 | 待核实 | 转载信息，是否还在招、地点、时长都待核实 | 现在 |
+| 2027 AI未来分析师成长计划（AAP） | 学位证 2027-03 → **2027 届**，在 2026-01-01 至 2027-08-31 的窗口内 | 全日制学生（本硕要求待核实） | 能投。全职校招，**对你是可选项** | 想体验咨询公司的招聘流程（在线测评、小组面试、案例面试）可以 10 月内投；打算读博不建议签约 |
 
-- **硕士身份**：AAP 写的是「全日制学生」，没有限定硕士，硕士不是解锁条件；但 AI Native Analyst 要求懂 AI 系统设计、基于 LLM 的架构和负责任 AI，你的 AI 硕士背景是直接加分项
-- **窗口友好**：截止毕业时间是 2027-08-31，比阿斯利康（2027-06）、GE医疗（2027-07）都宽，海外院校明确可投
-- **如果你是 2027 届**：现在就投 AAP，不要等截止日
-- **如果你是 2028 届**：AAP 不投，盯数据与 AI 团队的实习，用实习换 2028 届校招的提前录用
+- **现在到 2027-02 能做什么**：如果能拿到一段数据与 AI 或 AI 战略类实习，这是这批公司里**最能看到「各行业怎么运转」**的地方：咨询项目一个接一个，客户可能来自制造、能源、零售。实习地点有上海、北京、大连、广州、深圳、成都，没看到杭州，上海离你最近
+- **全职 AAP 是可选项**：小组面试和案例面试本身就是了解咨询行业的好机会，可以当一次体验，不必有压力
+- **读博以后**：咨询公司和高校的研究合作、研究类实习（待核实）；如果你的博士方向偏行业 AI 落地，埃森哲的行业报告和客户案例也值得长期关注
 
 ## 🔗 直达链接（复制到浏览器打开）
 
@@ -74,7 +74,7 @@ verified: 2026-10-07
 
 ## 3. 时间线与流程
 
-- AAP 已经开放，截止日没查到（待核实）。参照上一届 11 月上旬截止，**建议 10 月内投完**
+- AAP 已经开放，截止日没查到（待核实）。参照上一届 11 月上旬截止，想体验的话 10 月内投（全职校招，对你是可选项）
 - 往年流程（高校就业网转载，待核实）：网申 → 简历筛选 → 在线测评 → 小组面试和个人面试 → 终面 → Offer
 - 实习：数据与 AI 等团队不定期发布，表现优异的有机会提前锁定应届校招录用资格
 
@@ -87,22 +87,22 @@ verified: 2026-10-07
 
 ## 5. 为什么适合我
 
-- 「AI未来分析师」这个定位本身，就是你想做的「**AI 和传统行业之间的翻译者**」：一边懂 AI，一边听懂行业客户的业务痛点
-- JD 强调「会判断什么时候用 AI、会验证 AI 输出」，这正是你天天 Vibe Coding 练出来的能力，面试时可以拿具体例子讲
-- 咨询公司是**学管理经验、看清商业规则**最快的地方：一年能接触好几个行业客户，看人家怎么立项、怎么管项目、怎么卖方案，对你以后创业很有用
-- 外企、英语工作环境，海外院校明确可投；实习地点里有**成都**，和四川方向的偏好对得上
-- 你的 Java 和 Python 在 Digital Core（ERP、云、数据平台）这条线上能直接用
+- **黑客松全链路 28 场**：从参赛者、志愿者、工作人员、协办方，到主办方负责人、外场负责人、带队教练和评委，8 次获奖，还做过亚马逊云科技 2026 中国峰会志愿者。咨询项目要的就是这种「能做、能组织、还能评」的能力，[首届 AI 黑客松作品展台](https://zjsu-ai-hackathon.vercel.app/) 可以直接给面试官看
+- **企业 AI 培训经验**：给浙江医药做过 HR AI Agent 智能体搭建培训，给浙江省青年创业协会做过 AI 培训，和咨询顾问给客户做 AI 赋能、推动变革是同一件事
+- **多行业的数字孪生作品**：港口（[智港](https://smart-port-omega.vercel.app/)）、海上油田（[DEEPBLUE RIG](https://deepblue-rig.vercel.app/)）、机场（[天府 TWIN](http://aerotwin-tfu.vercel.app/)）、校园，每个都是一个行业。咨询公司最看重这种快速理解陌生行业、几天做出原型的能力
+- 「AI未来分析师」的 JD 强调「会判断什么时候用 AI、会验证 AI 输出」。你天天 Vibe Coding，面试时可以拿 [CJY 小票机](http://121.43.80.231/cjy/)（RAG + 来源可溯源）讲「怎么让 AI 的答案可验证」
+- 咨询公司是**看清商业规则、学管理方法**最快的地方，对读博选题和以后创业都有用；实习地点里有成都，和四川方向的偏好对得上
 
 ## 6. 投递建议
 
-- 简历按「场景 → 痛点 → 我用 AI 做了什么 → 结果」写 1 到 2 个 AI 应用项目，咨询公司最看重这个链条
+- 简历突出黑客松组织全链路和企业 AI 培训，再按「场景 → 痛点 → 我用 AI 做了什么 → 结果」写 [智港](https://smart-port-omega.vercel.app/)、[CJY 小票机](http://121.43.80.231/cjy/) 两个作品，附上[个人网站](https://cjy-web-page.vercel.app)
 - 准备一个「AI 改造某个传统行业流程」的小案例（例如电网巡检、工厂质检），面试和小组讨论都能用
 - 准备英文自我介绍和英文案例面试；在线测评一般有数理和逻辑题，提前练
 - 选方向时，优先 Industry & Enterprise 或 Supply Chain & Engineering，离「AI × 传统行业」最近
 
 **English pitch (for AAP):**
 
-> I'm an MSc AI student at the University of Sussex who builds AI applications for real organisations, mostly with Java, Python and AI-assisted coding. I'm especially interested in bringing AI into traditional industries such as energy and manufacturing, and I'd love to learn how Accenture turns AI from a demo into a delivered transformation.
+> I'm an MSc AI student on the Zhejiang Gongshang University and University of Sussex joint programme in Hangzhou. I build live AI products such as digital twins with multi-agent workflows, I have organised and judged 24 hackathons, and I have run AI agent training for companies. I'd love to see how Accenture turns AI from a demo into a delivered transformation across different industries.
 
 ## 7. 信息来源
 
@@ -122,4 +122,4 @@ verified: 2026-10-07
 
 | 日期 | 内容 |
 | --- | --- |
-| 2026-10-07 | 首次收录；补充直达链接和下次关注 |
+| 2026-10-07 | 首次收录；补充直达链接和下次关注；按确认的画像（中外合作 Sussex MSc，2027-03 毕业，实习为体验行业）重写硕士视角和为什么适合我 |
