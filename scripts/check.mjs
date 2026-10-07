@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 /**
  * 仓库自检（本地和 CI 都跑）：
- *   1. 公司页 front matter 字段是否完整、取值是否合法
+ *   1. 公司页 front matter 字段是否完整、取值是否合法；正文有没有必备章节，🔴 已截止的项目有没有写「下次关注」
  *   2. 所有 Markdown 里的相对链接是否指向真实存在的文件
  *   3. 自动生成的索引是否最新（否则提示运行 npm run index）
  */
@@ -23,6 +23,17 @@ for (const { path, data: d } of loadCompanies()) {
   if (d.verified && !isDay(d.verified)) errors.push(`${path}: verified 必须是 YYYY-MM-DD`)
   if (d.apply_url && !/^https?:\/\//.test(d.apply_url)) errors.push(`${path}: apply_url 必须是完整网址`)
   for (const k of ['directions', 'locations']) if (d[k] && !Array.isArray(d[k])) errors.push(`${path}: ${k} 必须是列表`)
+
+  // 正文：必备章节；已截止（🔴）的项目要写「下次关注」
+  const lines = readFileSync(join(ROOT, path), 'utf-8').split('\n')
+  const bodyStart = lines.indexOf('---', 1) + 1
+  const body = lines.slice(bodyStart).join('\n')
+  for (const sec of ['🔗 直达链接', 'AI 赋能切入点', '为什么适合我'])
+    if (!new RegExp(`^##.*${sec}`, 'm').test(body)) errors.push(`${path}: 缺少「${sec}」一节`)
+  lines.forEach((line, i) => {
+    if (i >= bodyStart && line.includes('🔴') && !line.includes('下次关注'))
+      errors.push(`${path}:${i + 1}: 有 🔴 但没写「下次关注」`)
+  })
 }
 for (const { path, data: d } of loadSearches()) {
   for (const k of ['date', 'topic', 'count']) if (d[k] == null) errors.push(`${path}: 缺少字段 ${k}`)
